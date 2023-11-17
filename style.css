@@ -4,5 +4,7 @@ body{
     text-align: center;
     color: red;
 
-    color: black
+    color: black;
+    display: flex;
+    
 }
